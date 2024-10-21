@@ -1,0 +1,57 @@
+{
+                "lang": "en",
+                "name": "test1",
+                "short_name": "test2",
+                "start_url": "/store/my-whatsstoresssss",
+                "display": "standalone",
+                "background_color": "#000000",
+                "theme_color": "#000000",
+                "orientation": "portrait",
+                "categories": [
+                    "shopping"
+                ],
+                "icons": [
+                    {
+                        "src": "http://localhost/product/whatsstore/main/saas/main_file/storage/uploads/customer_app/store_1/128x128.png",
+                        "sizes": "128x128",
+                        "type": "image/png",
+                        "purpose": "any"
+                    },
+                    {
+                        "src": "http://localhost/product/whatsstore/main/saas/main_file/storage/uploads/customer_app/store_1/144x144.png",
+                        "sizes": "144x144",
+                        "type": "image/png",
+                        "purpose": "any"
+                    },
+                    {
+                        "src": "http://localhost/product/whatsstore/main/saas/main_file/storage/uploads/customer_app/store_1/152x152.png",
+                        "sizes": "152x152",
+                        "type": "image/png",
+                        "purpose": "any"
+                    },
+                    {
+                        "src": "http://localhost/product/whatsstore/main/saas/main_file/storage/uploads/customer_app/store_1/192x192.png",
+                        "sizes": "192x192",
+                        "type": "image/png",
+                        "purpose": "any"
+                    },
+                    {
+                        "src": "http://localhost/product/whatsstore/main/saas/main_file/storage/uploads/customer_app/store_1/256x256.png",
+                        "sizes": "256x256",
+                        "type": "image/png",
+                        "purpose": "any"
+                    },
+                    {
+                        "src": "http://localhost/product/whatsstore/main/saas/main_file/storage/uploads/customer_app/store_1/512x512.png",
+                        "sizes": "512x512",
+                        "type": "image/png",
+                        "purpose": "any"
+                    },
+                    {
+                        "src": "http://localhost/product/whatsstore/main/saas/main_file/storage/uploads/customer_app/store_1/1024x1024.png",
+                        "sizes": "1024x1024",
+                        "type": "image/png",
+                        "purpose": "any"
+                    }
+                ]
+            }

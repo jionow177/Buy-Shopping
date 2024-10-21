@@ -1,0 +1,52 @@
+.d-none {
+    display: none !important;
+}
+
+.pdp-summery .cart-variable .price {
+    font-size: 17px !important;
+}
+
+@media screen and (max-width:1680px) {
+    .single-page-wrapper .side-menu-wrapper.active-menu {
+        overflow: scroll !important;
+    }
+}
+
+.product-view-body .login-title {
+    margin-bottom: 0px !important;
+}
+
+.coupon-box {
+    border-top: 1px solid var(--light-theme-border);
+    padding: 15px;
+}
+
+.coupon-box div {
+    display: flex;
+}
+
+.coupon-box div .input-wrapper {
+    flex: 1;
+}
+
+.icone-store .nav {
+    display: flex;
+    align-items: center;
+}
+
+.icone-store .nav li:not(:last-of-type) {
+    margin-right: 16px;
+}
+
+.nav-item a svg {
+    width: 15px;
+    height: 15px;
+}
+
+.nav-item a svg path {
+    fill: #6a6a6a;
+}
+
+.text-uppercase {
+    text-transform: uppercase !important;
+}

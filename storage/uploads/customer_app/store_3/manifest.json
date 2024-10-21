@@ -1,0 +1,57 @@
+{
+            "lang": "en",
+            "name": "store3",
+            "short_name": "store3",
+            "start_url": "http://localhost/product/whatsstore-saas/main_file/store/test-store",
+            "display": "standalone",
+            "background_color": "#0091ff",
+            "theme_color": "#ffea00",
+            "orientation": "portrait",
+            "categories": [
+                "shopping"
+            ],
+            "icons": [
+                {
+                    "src": "http://localhost/product/whatsstore-saas/main_file/storage/uploads/logo/favicon.png",
+                    "sizes": "128x128",
+                    "type": "image/png",
+                    "purpose": "any"
+                },
+                {
+                    "src": "http://localhost/product/whatsstore-saas/main_file/storage/uploads/logo/favicon.png",
+                    "sizes": "144x144",
+                    "type": "image/png",
+                    "purpose": "any"
+                },
+                {
+                    "src": "http://localhost/product/whatsstore-saas/main_file/storage/uploads/logo/favicon.png",
+                    "sizes": "152x152",
+                    "type": "image/png",
+                    "purpose": "any"
+                },
+                {
+                    "src": "http://localhost/product/whatsstore-saas/main_file/storage/uploads/logo/favicon.png",
+                    "sizes": "192x192",
+                    "type": "image/png",
+                    "purpose": "any"
+                },
+                {
+                    "src": "http://localhost/product/whatsstore-saas/main_file/storage/uploads/logo/favicon.png",
+                    "sizes": "256x256",
+                    "type": "image/png",
+                    "purpose": "any"
+                },
+                {
+                    "src": "http://localhost/product/whatsstore-saas/main_file/storage/uploads/logo/favicon.png",
+                    "sizes": "512x512",
+                    "type": "image/png",
+                    "purpose": "any"
+                },
+                {
+                    "src": "http://localhost/product/whatsstore-saas/main_file/storage/uploads/logo/favicon.png",
+                    "sizes": "1024x1024",
+                    "type": "image/png",
+                    "purpose": "any"
+                }
+            ]
+        }
